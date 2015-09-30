@@ -1,0 +1,15 @@
+{
+  "name": "alex",
+  "version": "1.0.0",
+  "description": "Company name <> domain name mapping scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "exec": "node index.js"
+  },
+  "author": "Grant George",
+  "license": "MIT",
+  "dependencies": {
+    "x-ray": "^2.0.2"
+  }
+}
