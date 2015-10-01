@@ -1,93 +1,516 @@
-[
-  {
-    "a": "Images",
-    "href": "http://www.google.com/imghp?hl=en&tab=wi",
-    "css": "gb1"
-  },
-  {
-    "a": "Maps",
-    "href": "http://maps.google.com/maps?hl=en&tab=wl",
-    "css": "gb1"
-  },
-  {
-    "a": "Play",
-    "href": "https://play.google.com/?hl=en&tab=w8",
-    "css": "gb1"
-  },
-  {
-    "a": "YouTube",
-    "href": "http://www.youtube.com/?tab=w1",
-    "css": "gb1"
-  },
-  {
-    "a": "News",
-    "href": "http://news.google.com/nwshp?hl=en&tab=wn",
-    "css": "gb1"
-  },
-  {
-    "a": "Gmail",
-    "href": "https://mail.google.com/mail/?tab=wm",
-    "css": "gb1"
-  },
-  {
-    "a": "Drive",
-    "href": "https://drive.google.com/?tab=wo",
-    "css": "gb1"
-  },
-  {
-    "a": "More »",
-    "href": "http://www.google.com/intl/en/options/",
-    "css": "gb1"
-  },
-  {
-    "a": "Web History",
-    "href": "http://www.google.com/history/optout?hl=en",
-    "css": "gb4"
-  },
-  {
-    "a": "Settings",
-    "href": "http://google.com/preferences?hl=en",
-    "css": "gb4"
-  },
-  {
-    "a": "Sign in",
-    "href": "https://accounts.google.com/ServiceLogin?hl=en&continue=http://www.google.com/",
-    "css": "gb4"
-  },
-  {
-    "a": "Get Google Chrome",
-    "href": "http://google.com/chrome/browser/?hl=en&brand=CHNG&utm_source=en-hpp&utm_medium=hpp&utm_campaign=en"
-  },
-  {
-    "a": "Advanced search",
-    "href": "http://google.com/advanced_search?hl=en&authuser=0"
-  },
-  {
-    "a": "Language tools",
-    "href": "http://google.com/language_tools?hl=en&authuser=0"
-  },
-  {
-    "a": "Advertising Programs",
-    "href": "http://google.com/intl/en/ads/"
-  },
-  {
-    "a": "Business Solutions",
-    "href": "http://google.com/services/"
-  },
-  {
-    "a": "+Google",
-    "href": "https://plus.google.com/116899029375914044550"
-  },
-  {
-    "a": "About Google",
-    "href": "http://google.com/intl/en/about.html"
-  },
-  {
-    "a": "Privacy",
-    "href": "http://google.com/intl/en/policies/privacy/"
-  },
-  {
-    "a": "Terms",
-    "href": "http://google.com/intl/en/policies/terms/"
-  }
-]
+{
+  "albums": [
+    {
+      "title": "album: \"Taylor Swift\" (2006)  "
+    },
+    {
+      "title": "EP: \"Sounds Of The Season: The Taylor Swift Holiday Collection\" (2007)  "
+    },
+    {
+      "title": "album: \"Fearless\" (2008)  "
+    },
+    {
+      "title": "album: \"Speak Now\" (2010)  "
+    },
+    {
+      "title": "album: \"Red\" (2012)  "
+    },
+    {
+      "title": "album: \"1989\" (2014)  "
+    },
+    {
+      "title": "other songs:"
+    }
+  ],
+  "songs": [
+    {
+      "title": "Tim McGraw"
+    },
+    {
+      "title": "Picture To Burn"
+    },
+    {
+      "title": "Teardrops On My Guitar"
+    },
+    {
+      "title": "A Place In This World"
+    },
+    {
+      "title": "Cold As You"
+    },
+    {
+      "title": "The Outside"
+    },
+    {
+      "title": "Tied Together With A Smile"
+    },
+    {
+      "title": "Stay Beautiful"
+    },
+    {
+      "title": "Should've Said No"
+    },
+    {
+      "title": "Mary's Song (Oh My My My)"
+    },
+    {
+      "title": "Our Song"
+    },
+    {
+      "title": "I'm Only Me When I'm With You"
+    },
+    {
+      "title": "Invisible"
+    },
+    {
+      "title": "A Perfectly Good Heart"
+    },
+    {
+      "title": "Last Christmas"
+    },
+    {
+      "title": "Christmases When You Were Mine"
+    },
+    {
+      "title": "Santa Baby"
+    },
+    {
+      "title": "Silent Night"
+    },
+    {
+      "title": "Christmas Must Be Something More"
+    },
+    {
+      "title": "White Christmas"
+    },
+    {
+      "title": "Jump Then Fall"
+    },
+    {
+      "title": "Untouchable"
+    },
+    {
+      "title": "Forever & Always (Piano Version)"
+    },
+    {
+      "title": "Come In With The Rain"
+    },
+    {
+      "title": "Superstar"
+    },
+    {
+      "title": "The Other Side Of The Door"
+    },
+    {
+      "title": "Fearless"
+    },
+    {
+      "title": "Fifteen"
+    },
+    {
+      "title": "Love Story"
+    },
+    {
+      "title": "Hey Stephen"
+    },
+    {
+      "title": "White Horse"
+    },
+    {
+      "title": "You Belong With Me"
+    },
+    {
+      "title": "Breathe"
+    },
+    {
+      "title": "Tell Me Why"
+    },
+    {
+      "title": "You're Not Sorry"
+    },
+    {
+      "title": "The Way I Loved You"
+    },
+    {
+      "title": "Forever & Always"
+    },
+    {
+      "title": "The Best Day"
+    },
+    {
+      "title": "Change"
+    },
+    {
+      "title": "Mine"
+    },
+    {
+      "title": "Sparks Fly"
+    },
+    {
+      "title": "Back To December"
+    },
+    {
+      "title": "Speak Now"
+    },
+    {
+      "title": "Dear John"
+    },
+    {
+      "title": "Mean"
+    },
+    {
+      "title": "The Story Of Us"
+    },
+    {
+      "title": "Never Grow Up"
+    },
+    {
+      "title": "Enchanted"
+    },
+    {
+      "title": "Better Than Revenge"
+    },
+    {
+      "title": "Innocent"
+    },
+    {
+      "title": "Haunted"
+    },
+    {
+      "title": "Last Kiss"
+    },
+    {
+      "title": "Long Live"
+    },
+    {
+      "title": "Ours"
+    },
+    {
+      "title": "If This Was A Movie"
+    },
+    {
+      "title": "Superman"
+    },
+    {
+      "title": "State Of Grace"
+    },
+    {
+      "title": "Red"
+    },
+    {
+      "title": "Treacherous"
+    },
+    {
+      "title": "I Knew You Were Trouble"
+    },
+    {
+      "title": "All Too Well"
+    },
+    {
+      "title": "22"
+    },
+    {
+      "title": "I Almost Do"
+    },
+    {
+      "title": "We Are Never Ever Getting Back Together"
+    },
+    {
+      "title": "Stay Stay Stay"
+    },
+    {
+      "title": "The Last Time"
+    },
+    {
+      "title": "Holy Ground"
+    },
+    {
+      "title": "Sad Beautiful Tragic"
+    },
+    {
+      "title": "The Lucky One"
+    },
+    {
+      "title": "Everything Has Changed"
+    },
+    {
+      "title": "Starlight"
+    },
+    {
+      "title": "Begin Again"
+    },
+    {
+      "title": "The Moment I Knew"
+    },
+    {
+      "title": "Come Back... Be Here"
+    },
+    {
+      "title": "Girl At Home"
+    },
+    {
+      "title": "Welcome To New York"
+    },
+    {
+      "title": "Blank Space"
+    },
+    {
+      "title": "Style"
+    },
+    {
+      "title": "Out Of The Woods"
+    },
+    {
+      "title": "All You Had To Do Was Stay"
+    },
+    {
+      "title": "Shake It Off"
+    },
+    {
+      "title": "I Wish You Would"
+    },
+    {
+      "title": "Bad Blood"
+    },
+    {
+      "title": "Wildest Dreams"
+    },
+    {
+      "title": "How You Get The Girl"
+    },
+    {
+      "title": "This Love"
+    },
+    {
+      "title": "I Know Places"
+    },
+    {
+      "title": "Clean"
+    },
+    {
+      "title": "Wonderland"
+    },
+    {
+      "title": "You Are In Love"
+    },
+    {
+      "title": "New Romantics"
+    },
+    {
+      "title": "Ain't Nothing 'Bout You"
+    },
+    {
+      "title": "All Because Of Ellen"
+    },
+    {
+      "title": "All Night Diner"
+    },
+    {
+      "title": "Am I Ready For Love"
+    },
+    {
+      "title": "American Boy"
+    },
+    {
+      "title": "American Girl"
+    },
+    {
+      "title": "Baby, Don't You Break My Heart Slow"
+    },
+    {
+      "title": "Bad Blood (Remix)"
+    },
+    {
+      "title": "Beautiful Eyes"
+    },
+    {
+      "title": "Being With My Baby"
+    },
+    {
+      "title": "Bette Davis Eyes"
+    },
+    {
+      "title": "Better Off"
+    },
+    {
+      "title": "Breathless"
+    },
+    {
+      "title": "Brought Up That Way"
+    },
+    {
+      "title": "By The Way"
+    },
+    {
+      "title": "Can I Go With You"
+    },
+    {
+      "title": "Closest To A Cowboy"
+    },
+    {
+      "title": "Crazier"
+    },
+    {
+      "title": "Dark Blue Tennessee"
+    },
+    {
+      "title": "Didn't They"
+    },
+    {
+      "title": "Don't Hate Me For Loving You"
+    },
+    {
+      "title": "Drops Of Jupiter"
+    },
+    {
+      "title": "Eyes Open"
+    },
+    {
+      "title": "Fall Back On You"
+    },
+    {
+      "title": "Firefly"
+    },
+    {
+      "title": "Gracie"
+    },
+    {
+      "title": "I Heart ?"
+    },
+    {
+      "title": "I Knew You Were Trouble (Remix)"
+    },
+    {
+      "title": "I Know What I Want"
+    },
+    {
+      "title": "I Wished On A Plane"
+    },
+    {
+      "title": "I'd Lie"
+    },
+    {
+      "title": "Just South Of Knowing Why"
+    },
+    {
+      "title": "Long Time Coming"
+    },
+    {
+      "title": "Lucky You"
+    },
+    {
+      "title": "Made Up You"
+    },
+    {
+      "title": "Mandolin"
+    },
+    {
+      "title": "Monologue Song (La La La)"
+    },
+    {
+      "title": "My Cure"
+    },
+    {
+      "title": "Nashville"
+    },
+    {
+      "title": "Need You Now"
+    },
+    {
+      "title": "Nevermind"
+    },
+    {
+      "title": "One Thing"
+    },
+    {
+      "title": "One Way Ticket"
+    },
+    {
+      "title": "Our Last Night"
+    },
+    {
+      "title": "Permanent Marker"
+    },
+    {
+      "title": "Revenge"
+    },
+    {
+      "title": "Riptide"
+    },
+    {
+      "title": "Ronan"
+    },
+    {
+      "title": "Safe & Sound"
+    },
+    {
+      "title": "Smokey Black Nights"
+    },
+    {
+      "title": "Spinning Around"
+    },
+    {
+      "title": "Stupid Boy"
+    },
+    {
+      "title": "Sweet Tea And God's Graces"
+    },
+    {
+      "title": "Sweeter Than Fiction"
+    },
+    {
+      "title": "Tell Me"
+    },
+    {
+      "title": "Ten Dollars And A Six Pack"
+    },
+    {
+      "title": "The Diary Of Me"
+    },
+    {
+      "title": "There's Your Trouble"
+    },
+    {
+      "title": "Thirteen Blocks (Can't Call It Love)"
+    },
+    {
+      "title": "This Is Really Happening"
+    },
+    {
+      "title": "Thug Story"
+    },
+    {
+      "title": "Today Was A Fairytale"
+    },
+    {
+      "title": "Viva La Vida"
+    },
+    {
+      "title": "Wait For Me"
+    },
+    {
+      "title": "We Were Happy"
+    },
+    {
+      "title": "Welcome Distraction"
+    },
+    {
+      "title": "What Do You Say"
+    },
+    {
+      "title": "What To Wear"
+    },
+    {
+      "title": "Who I've Always Been"
+    },
+    {
+      "title": "Writing Songs About You"
+    },
+    {
+      "title": "Your Anything"
+    },
+    {
+      "title": "Your Face"
+    }
+  ]
+}
